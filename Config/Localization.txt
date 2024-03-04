@@ -1,0 +1,2 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+ttPlayerStorageNotEmpty,toolbelt,toolbelt,,,You must empty the storage before picking it up,,,,,,中身を空にしてからでなければ、拾うことはできません。,,,,,,,
