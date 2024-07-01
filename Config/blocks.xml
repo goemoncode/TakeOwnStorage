@@ -1,7 +1,4 @@
 <patch>
-  <set xpath="/blocks/block[@name='cntSecureStorageChest']/property[@name='Class']/@value">PlayerSecureStorage, TakeOwnStorage</set>
-  <set xpath="/blocks/block[@name='cntStorageGeneric']/property[@name='Class']/@value">PlayerSecureStorage, TakeOwnStorage</set>
-  <set xpath="/blocks/block[@name='cntStorageGenericSigned']/property[@name='Class']/@value">PlayerSecureStorageSigned, TakeOwnStorage</set>
   <set xpath="/blocks/block[@name='cntWallSafe_Player']/property[@name='Class']/@value">PlayerSecureStorage, TakeOwnStorage</set>
   <set xpath="/blocks/block[@name='cntGunSafe_Player']/property[@name='Class']/@value">PlayerSecureStorage, TakeOwnStorage</set>
   <set xpath="/blocks/block[@name='cntSteelWallCabinetSecure']/property[@name='Class']/@value">PlayerSecureStorage, TakeOwnStorage</set>

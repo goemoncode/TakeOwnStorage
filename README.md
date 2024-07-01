@@ -1,6 +1,6 @@
 # TakeOwnStorage
 
-A mod for 7 Days to Die A21.
+A mod for 7 Days to Die V1.0.
 
 This mod provides the ability to take your own storage box into inventory.
 
